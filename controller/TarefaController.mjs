@@ -1,4 +1,4 @@
-import { Tarefa } from '../model/tarefa.mjs';
+import { Tarefa } from '../model/Tarefa.mjs';
 import { TarefaService } from '../service/TarefaService.mjs';
 
 const servico = new TarefaService();
