@@ -1,0 +1,8 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Gerenciador de tarefas simples",
+  "main": "main.mjs",
+  "author": "Davi Valerio"
+}
